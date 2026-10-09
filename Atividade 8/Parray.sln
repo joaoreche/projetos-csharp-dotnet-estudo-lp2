@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parray", "Parray\Parray.csproj", "{2354B324-0E9B-4225-8363-F3477923AD6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2354B324-0E9B-4225-8363-F3477923AD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2354B324-0E9B-4225-8363-F3477923AD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2354B324-0E9B-4225-8363-F3477923AD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2354B324-0E9B-4225-8363-F3477923AD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA853353-5E56-42E7-A51D-A252FA7163E1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,53 @@
+## =======================================================
+## .gitignore para C# / .NET (Visual Studio e VS Code)
+## Disciplina: Linguagem de Programação 2 (LP2)
+## =======================================================
+
+# Diretórios de build, compilação e binários
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+out/
+
+# Ambientes de Desenvolvimento e IDEs
+.vs/
+.vscode/
+.idea/
+*.sln.docstates
+
+# Arquivos de preferências e cache de usuário
+*.user
+*.suo
+*.userosscache
+*.userprefs
+*.pidb
+*.booproj.user
+
+# Pacotes de dependências gerenciados / restauráveis
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.assets.json
+
+# Arquivos temporários e de log do sistema / compilação
+*.log
+*.tmp
+*.temp
+[Tt]emp/
+[Tt]mp/
+
+# Arquivos (backup/locais)
+Certificados/
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Arquivos específicos de Sistema Operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
